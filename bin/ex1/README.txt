@@ -18,4 +18,3 @@ WGraph_Algo- This class represents the set of graph-theory algorithms,
 WGraph_DS- WGraph_DS class is an implementation of weighted_graph interface. 
            The class contains an inner class - NodeInfo which is the implementation of a node_info
            interface. in this class the HashMap contains all the nodes in the grap.
-            
